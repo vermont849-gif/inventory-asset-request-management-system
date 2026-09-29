@@ -1,0 +1,9 @@
+# Local configuration and secrets
+/config/config.php
+.env
+.env.*
+!.env.example
+
+# Local development artifacts
+.DS_Store
+Thumbs.db
